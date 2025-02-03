@@ -1,35 +1,92 @@
-# Data-Science-Workshop---Spring-2025---NBL-
+# Data Science Workshop - Spring 2025 | NBL
 
-1. Introduction to Python Programming
+Welcome to the **Data Science Workshop - Spring 2025** hosted by **New Brunswick Libraries (NBL)**!  
+This workshop series is designed to introduce participants to essential **data science concepts, tools, and applications**.  
+---
 
-This workshop is designed for beginners with little to no experience in programming, aiming to provide a rapid yet comprehensive introduction to the world of Python, one of the most popular and versatile programming languages today. Introduction to Jupyter Notebook and Google Collab. Learners will quickly grasp Python syntax, script execution, and fundamental constructs like variables, data types, and operators. They will also explore control structures like if-else statements, loops, and functions, gaining practical skills in data structures such as lists, tuples, sets, and dictionaries. 
+## Workshop Topics & Descriptions
 
-2. Mastering Data Analysis: Pandas and NumPy Essentials
+### ## 1. Introduction to Python Programming
+💡 *Beginner-friendly | Hands-on*  
+This workshop is tailored for those with little to no programming experience. It covers:
+- **Python syntax and script execution**
+- **Jupyter Notebook & Google Colab**
+- **Variables, Data Types, and Operators**
+- **Control Structures**: If-Else statements, loops, functions
+- **Data Structures**: Lists, tuples, sets, dictionaries
 
-This workshop is designed to equip learners with powerful tools for data analysis in Python. Participants will delve into the world of NumPy, exploring its efficient arrays and array operations, which form the backbone of numerical computing in Python. The workshop then shifts to Pandas, where learners will get hands-on experience with its fundamental data structures - Series and DataFrame. This comprehensive session is ideal for anyone looking to enhance their data analysis skills, offering the tools needed to unlock insights from data with efficiency and precision.
+---
 
-3. Introduction to Tableau: Visualizing Data Made Easy
-This workshop provides a concise introduction to Tableau, a powerful tool for creating interactive data visualizations. Participants will learn how to create interactive dashboards, visualize complex datasets, and uncover insights through dynamic charts and graphs. This hands-on session will guide you through the essentials of Tableau, including data connection, transformation, and storytelling techniques.
+### ## 2. Mastering Data Analysis: Pandas and NumPy Essentials
+📊 *Data Analysis & Manipulation*  
+Participants will dive into powerful **data analysis tools**:
+- **NumPy**: Arrays, indexing, vectorized operations
+- **Pandas**: DataFrames, Series, handling missing data, filtering, and aggregations
+- **Hands-on exercises** using real-world datasets
 
-5. Introduction to Machine Learning: Supervised Learning
+---
 
-This workshop is tailored for beginners in machine learning. It focuses on supervised learning algorithms that are a cornerstone of machine learning, where the algorithm learns from labeled training data, helping to predict outcomes for unforeseen data. Classification and Regression will be introduced. Participants will learn about key algorithms like Linear Regression and ensemble methods like Random Forests and Gradient Boosting Machines for improved prediction accuracy. 
+### ## 3. Introduction to Tableau: Visualizing Data Made Easy
+📈 *Interactive Data Visualization*  
+- Learn to create **interactive dashboards**  
+- Explore **dynamic charts and graphs**  
+- Connect and transform **data for storytelling**  
+- Uncover hidden insights with **Tableau**
 
-5. Introduction to Machine Learning: Unsupervised Learning
+---
 
-This workshop is designed to introduce the concepts of unsupervised learning, a branch of machine learning where algorithms infer patterns from unlabelled data. The course covers clustering methods like K-means and DBSCAN, used to identify inherent groupings in data. It also explores dimensionality reduction techniques such as PCA, which simplify complex data sets while preserving their key features. Additionally, the session introduces association rules, a method for finding interesting relationships within data sets. This workshop is ideal for those interested in learning how to extract insights from data without predetermined labels or categories. 
+### ## 4. Introduction to Machine Learning: Supervised Learning
+🤖 *Fundamentals of Predictive Modeling*  
+- Understanding **Supervised Learning**
+- **Classification & Regression** algorithms
+- Hands-on with **Linear Regression, Random Forests, Gradient Boosting Machines**
 
-6. Data-Driven Decision Making: A/B Testing and Statistical Hypothesis Testing
-This workshop aims to equip participants with the knowledge and skills to implement A/B testing and statistical hypothesis testing for data-driven decision-making. The session will cover fundamental concepts, practical implementation, and interpretation of results, enabling attendees to make informed decisions based on empirical data.
+---
 
-7. Demystifying Generative AI
-This workshop offers a beginner-friendly introduction to generative AI, exploring its capabilities, limitations, and applications in personal and professional contexts. Participants will learn to separate facts from myths, uncover best practices, and discover how to use this transformative technology effectively and ethically.
+### ## 5. Introduction to Machine Learning: Unsupervised Learning
+🧠 *Discovering Hidden Patterns*  
+- Explore **Clustering** techniques: K-Means, DBSCAN  
+- Learn **Dimensionality Reduction** with PCA  
+- Introduction to **Association Rules** for market basket analysis  
 
-8. Large Language Models: From Theory to Implementation
-This workshop introduces the basics of Large Language Models (LLMs), covering their foundations, capabilities, and practical applications. Learn how to implement LLMs, explore best practices, and responsibly integrate them into real-world projects.
+---
 
-9. Generative AI Applications with AI Agents
-This workshop explores the integration of generative AI with autonomous agents to create innovative applications that can solve problems, automate tasks, and enhance creativity. Participants will learn how generative AI agents combine language models, tools, and APIs to perform complex tasks independently.
+### ## 6. Data-Driven Decision Making: A/B Testing and Statistical Hypothesis Testing
+📊 *Statistical Methods for Business & Research*  
+- Understand **A/B Testing** fundamentals  
+- Conduct **Hypothesis Testing**  
+- Practical case studies for **data-driven decision-making**  
 
-10. Building Intelligent Recommendation Systems
-Dive into the fascinating world of recommender systems, the backbone of personalized experiences in today’s digital age. In this workshop, you’ll uncover how platforms like Netflix, Amazon, and Spotify predict what users want. Participants will gain insights into popular algorithms, including collaborative and content-based filtering, and apply these techniques to create intelligent recommendation solutions. 
+---
+
+### ## 7. Demystifying Generative AI
+🤖 *Understanding AI’s Impact*  
+- What is **Generative AI**?  
+- **Myths vs. Realities**  
+- **Ethical considerations and best practices**  
+- How to integrate **AI into personal and professional workflows**  
+
+---
+
+### ## 8. Large Language Models: From Theory to Implementation
+📚 *LLMs in Action*  
+- Introduction to **Large Language Models (LLMs)**  
+- How they work and their **capabilities**  
+- Hands-on **implementation & responsible AI practices**  
+
+---
+
+### ## 9. Generative AI Applications with AI Agents
+🤖 *Building Autonomous AI Systems*  
+- Learn how **Generative AI agents** work  
+- Combining **Language Models, Tools, and APIs**  
+- Automating tasks and **problem-solving with AI**  
+
+---
+
+### ## 10. Building Intelligent Recommendation Systems
+🎯 *Personalized AI for Digital Platforms*  
+- How Netflix, Amazon, and Spotify predict what users want  
+- **Collaborative Filtering & Content-Based Recommendation**  
+- Build your own **Recommendation System** with Python  
+
