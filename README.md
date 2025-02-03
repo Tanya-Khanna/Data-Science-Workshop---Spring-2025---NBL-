@@ -6,7 +6,7 @@ This workshop series is designed to introduce participants to essential **data s
 
 ## Workshop Topics & Descriptions
 
-### ## 1. Introduction to Python Programming
+### 1. Introduction to Python Programming
 💡 *Beginner-friendly | Hands-on*  
 This workshop is tailored for those with little to no programming experience. It covers:
 - **Python syntax and script execution**
@@ -17,7 +17,7 @@ This workshop is tailored for those with little to no programming experience. It
 
 ---
 
-### ## 2. Mastering Data Analysis: Pandas and NumPy Essentials
+### 2. Mastering Data Analysis: Pandas and NumPy Essentials
 📊 *Data Analysis & Manipulation*  
 Participants will dive into powerful **data analysis tools**:
 - **NumPy**: Arrays, indexing, vectorized operations
@@ -26,7 +26,7 @@ Participants will dive into powerful **data analysis tools**:
 
 ---
 
-### ## 3. Introduction to Tableau: Visualizing Data Made Easy
+### 3. Introduction to Tableau: Visualizing Data Made Easy
 📈 *Interactive Data Visualization*  
 - Learn to create **interactive dashboards**  
 - Explore **dynamic charts and graphs**  
@@ -35,7 +35,7 @@ Participants will dive into powerful **data analysis tools**:
 
 ---
 
-### ## 4. Introduction to Machine Learning: Supervised Learning
+### 4. Introduction to Machine Learning: Supervised Learning
 🤖 *Fundamentals of Predictive Modeling*  
 - Understanding **Supervised Learning**
 - **Classification & Regression** algorithms
@@ -43,7 +43,7 @@ Participants will dive into powerful **data analysis tools**:
 
 ---
 
-### ## 5. Introduction to Machine Learning: Unsupervised Learning
+### 5. Introduction to Machine Learning: Unsupervised Learning
 🧠 *Discovering Hidden Patterns*  
 - Explore **Clustering** techniques: K-Means, DBSCAN  
 - Learn **Dimensionality Reduction** with PCA  
@@ -51,7 +51,7 @@ Participants will dive into powerful **data analysis tools**:
 
 ---
 
-### ## 6. Data-Driven Decision Making: A/B Testing and Statistical Hypothesis Testing
+### 6. Data-Driven Decision Making: A/B Testing and Statistical Hypothesis Testing
 📊 *Statistical Methods for Business & Research*  
 - Understand **A/B Testing** fundamentals  
 - Conduct **Hypothesis Testing**  
@@ -59,7 +59,7 @@ Participants will dive into powerful **data analysis tools**:
 
 ---
 
-### ## 7. Demystifying Generative AI
+### 7. Demystifying Generative AI
 🤖 *Understanding AI’s Impact*  
 - What is **Generative AI**?  
 - **Myths vs. Realities**  
@@ -68,7 +68,7 @@ Participants will dive into powerful **data analysis tools**:
 
 ---
 
-### ## 8. Large Language Models: From Theory to Implementation
+### 8. Large Language Models: From Theory to Implementation
 📚 *LLMs in Action*  
 - Introduction to **Large Language Models (LLMs)**  
 - How they work and their **capabilities**  
@@ -76,7 +76,7 @@ Participants will dive into powerful **data analysis tools**:
 
 ---
 
-### ## 9. Generative AI Applications with AI Agents
+### 9. Generative AI Applications with AI Agents
 🤖 *Building Autonomous AI Systems*  
 - Learn how **Generative AI agents** work  
 - Combining **Language Models, Tools, and APIs**  
@@ -84,7 +84,7 @@ Participants will dive into powerful **data analysis tools**:
 
 ---
 
-### ## 10. Building Intelligent Recommendation Systems
+### 10. Building Intelligent Recommendation Systems
 🎯 *Personalized AI for Digital Platforms*  
 - How Netflix, Amazon, and Spotify predict what users want  
 - **Collaborative Filtering & Content-Based Recommendation**  
