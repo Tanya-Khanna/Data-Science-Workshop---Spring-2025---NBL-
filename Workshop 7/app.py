@@ -421,7 +421,6 @@ if __name__ == "__main__":
 
 # ----------------------------------------------------------------------------------------
 # 🛠️ SETUP INSTRUCTIONS: How to Run the YouTube Video Analyzer App
-# All steps provided as comments for reference within your code.
 # ----------------------------------------------------------------------------------------
 
 # 1️⃣ Step 1: Download and Install Ollama
