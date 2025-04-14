@@ -1,0 +1,7 @@
+streamlit
+st-weaviate-connection
+weaviate-client
+tqdm
+toml
+pandas
+requests
